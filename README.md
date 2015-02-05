@@ -1,1 +1,1 @@
-# workshop-scaffold
+Don't forget to `npm install`!
